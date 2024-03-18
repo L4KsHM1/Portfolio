@@ -1,0 +1,83 @@
+{
+    "skills":[
+        {
+            "id":"1",
+            "src":"./img/skill1-code.png",
+            "title":"Front-End",
+            "description":"Lorem ipsum dolor Lorem ipsum dolor sit amet consectetur. sit amet consectetur adipisicing elit. Iure, repellendus!"
+        },
+        {
+            "id":"2",
+            "src":"./img/skill2-feather.png",
+            "title":"Back-End",
+            "description":"Lorem ipsum dolor Lorem ipsum dolor sit amet consectetur. sit amet consectetur adipisicing elit. Iure, repellendus!"
+        },
+        {
+            "id":"3",
+            "src":"./img/skill3-idea.png",
+            "title":"Front-End",
+            "description":"Lorem ipsum dolor Lorem ipsum dolor sit amet consectetur. sit amet consectetur adipisicing elit. Iure, repellendus!"
+        },
+        {
+            "id":"4",
+            "src":"./img/skill4-tag.png",
+            "title":"Front-End",
+            "description":"Lorem ipsum dolor Lorem ipsum dolor sit amet consectetur. sit amet consectetur adipisicing elit. Iure, repellendus!"
+        }
+    ],
+    "portfolio":[
+        {
+            "id":"1",
+            "src":"./img/Screenshot (1).png",
+            "title":"Axom",
+            "description":"Lorem ipsum dolor Lorem ipsum dolor sit amet consectetur. sit amet consectetur adipisicing elit. Iure, repellendus!",
+            "Link":"view in github"
+        },
+        {
+            "id":"2",
+            "src":"./img/Screenshot (2).png",
+            "title":"Travela",
+            "description":"Lorem ipsum dolor Lorem ipsum dolor sit amet consectetur. sit amet consectetur adipisicing elit. Iure, repellendus!",
+            "Link":"view in github"
+
+        },
+        {
+            "id":"3",
+            "src":"./img/Screenshot (3).png",
+            "title":"Kursinan",
+            "description":"Lorem ipsum dolor Lorem ipsum dolor sit amet consectetur. sit amet consectetur adipisicing elit. Iure, repellendus!",
+            "Link":"view in github"
+
+        }
+    ],
+    "testimonials":[
+        {
+            "id":"1",
+            "count":"5",
+            "src":"./img/avatar1.png",
+            "title":"Ahuse",
+            "description":"Lorem ipsum dolor Lorem ipsum dolor sit amet consectetur. sit amet consectetur adipisicing elit. Iure, repellendus!",
+            "author_name":"Dianne Russel",
+            "author_designation":"Starbucks "
+        },
+        {
+            "id":"2",
+            "count":"5",
+            "src":"./img/avatar2.png",
+            "title":"Ahuse",
+            "description":"Lorem ipsum dolor Lorem ipsum dolor sit amet consectetur. sit amet consectetur adipisicing elit. Iure, repellendus!",
+            "author_name":"Kristina Murphy",
+            "author_designation":"Louis Vuitton "
+        },
+        {
+            "id":"3",
+            "count":"5",
+            "src":"./img/avatar1.png",
+            "title":"Ahuse",
+            "description":"Lorem ipsum dolor Lorem ipsum dolor sit amet consectetur. sit amet consectetur adipisicing elit. Iure, repellendus!",
+            "author_name":"Kathryn Watson",
+            "author_designation":"McDonald's "
+        }
+    ]
+    
+}
